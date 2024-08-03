@@ -10,6 +10,7 @@ dill==0.3.8
 exceptiongroup==1.2.2
 flake8==7.1.0
 Flask==3.0.3
+gunicorn==22.0.0
 idna==3.7
 iniconfig==2.0.0
 isort==5.13.2
@@ -38,7 +39,6 @@ rich==13.7.1
 stevedore==5.2.0
 tomli==2.0.1
 tomlkit==0.13.0
-typeguard==4.3.0
 typing_extensions==4.12.2
 urllib3==2.2.2
 Werkzeug==3.0.3
